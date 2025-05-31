@@ -1,0 +1,7 @@
+{
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "globals": "~16.1.0",
+    "happy-dom": "~17.5.1"
+  }
+}
